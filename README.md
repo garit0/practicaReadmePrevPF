@@ -6,7 +6,7 @@ El sitio funciona como un mini portafolio personal donde presento algunos proyec
 
 ## Cómo ver el sitio
 URL pública (GitHub Pages):  
-
+https://garit0.github.io/practicaReadmePrevPF/
 
 ## Autor y licencia
 Judith Marquez Zempoalteca
